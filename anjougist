@@ -199,7 +199,7 @@
        },
        "102":{
          "title":"Anjou-san Wants to Play During Revision Week",
-         "volume":"8",
+         "volume":"9",
          "groups":{
             "Facepalm Scans":"/proxy/api/imgur/chapter/ymSi1kA/"
          },
@@ -207,7 +207,7 @@
        },
        "103":{
          "title":"Anjou-san Needs Charging",
-         "volume":"8",
+         "volume":"9",
          "groups":{
             "Facepalm Scans & TSP":"/proxy/api/imgur/chapter/llPthrY/"
          },
@@ -215,11 +215,19 @@
        },
        "104":{
          "title":"The Day Before Tokio-kun's Exams",
-         "volume":"8",
+         "volume":"9",
          "groups":{
             "Facepalm Scans & TSP":"/proxy/api/imgur/chapter/nBFpHPU/"
          },
          "last_updated":"1625054090"
+       },
+       "105":{
+         "title":"Inuyama-kun Wants to Help His Friends",
+         "volume":"9",
+         "groups":{
+            "Facepalm Scans & TSP":"/proxy/api/imgur/chapter/Z6ewfO5/"
+         },
+         "last_updated":"1626260520"
        }
   }
 }
